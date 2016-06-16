@@ -5,6 +5,7 @@
              xmlns:converters="clr-namespace:LightControl.Converters;assembly=LightControl"
              x:Class="LightControl.Views.MainPage">
 
+  
   <ContentPage.Resources>
     <ResourceDictionary>
       <converters:BooleanToStringConverter x:Key="BooleanToStringConverter"/>
